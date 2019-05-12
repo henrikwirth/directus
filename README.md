@@ -1,7 +1,7 @@
 
 
 
-<p> This fork should only server as a latest build. Its not official and I guess soon there will be latest builds coming directly from directus. <p/>
+<p> This fork should only serve as a latest build of the directus suite. Its not official and I guess, soon there will be latest builds coming directly from directus. <p/>
 
 <p align="center">
   <a href="https://directus.io" target="_blank" rel="noopener noreferrer">
